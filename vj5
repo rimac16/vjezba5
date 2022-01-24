@@ -1,0 +1,33 @@
+<!DOCTYPE HTML>
+<html lang="hr">
+	<head>
+		<title>Popis mobitela vj5</title>
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+		<meta name="description" content="">
+		<meta name="keywords" content="">
+		<meta name="author" content="Tadija Rimac">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+	</head>
+<body>
+	<h1>Popis mobitela</h1>
+	<table border="1" cellspacing="5" cellpadding="5">
+		<tr>
+			<th colspan ="2">Samsung</th>
+			<th colspan ="2">Apple</th>
+		</tr>
+		<tr>
+			<td><img src="img/s20.jpg" width="80" alt="Samsung galaxy S20" title="Samsung galaxy S20"></td>
+			<td>Galaxy S20</td>
+			<td><img src="img/iphone 12.jpg" width="80" alt="Apple iphone 12" title="Apple iphone 12"></td>
+			<td>Iphone 12</td>
+		</tr>
+		<tr>
+			<td><img src="img/s21.jpg" width="80" alt="Samsung galaxy S21" title="Samsung galaxy S21"></td>
+			<td>Galaxy s21</td>
+			<td><img src="img/iphone13.jpg" width="80" alt="Apple iphone 13" title="Apple iphone 13"></td>
+			<td>Iphone 13</td>
+		  </tr>
+	</table>
+</body>
+</html>
